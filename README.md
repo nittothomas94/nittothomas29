@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitto Thomas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="![image](https://github.com/nittothomas29/nittothomas29/assets/160035598/5c172c72-f549-4707-a8b6-dea431f39027)
-">
+<img align="right" alt="coding" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nittothomas29&label=Profile%20views&color=0e75b6&style=flat" alt="nittothomas29" /> </p>
 
