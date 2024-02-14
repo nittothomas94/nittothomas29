@@ -1,4 +1,4 @@
-![logo](Blue And Red Futuristic Game YouTube Channel Art.jpg)
+![logo](nitto29.jpg)
 <h1 align="center">Hi 👋, I'm Nitto Thomas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="coding.gif">
