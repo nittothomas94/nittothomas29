@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN , HTML , CSS**
 
-- 📫 How to reach me **nittothomas9075@gmail.com**
+- 📫 How to reach me **nittothomas94@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
 
